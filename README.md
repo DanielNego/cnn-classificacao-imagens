@@ -41,7 +41,8 @@ Conv2D (32 filtros 3x3, ReLU) → MaxPooling (2x2)
 
 ## 📈 Resultados
 
-- **Acurácia no conjunto de teste (10 mil imagens que o modelo não viu no treino):** [ajuste: valor exibido pelo notebook, ex.: 98,9%]
+- **Acurácia no conjunto de teste (10 mil imagens que o modelo não viu no treino):** **99,06%**
+- **Acurácia de validação na última época:** 99,05%
 
 O notebook também mostra previsões do modelo em imagens novas, comparando o dígito previsto com o real:
 
